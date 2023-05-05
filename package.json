@@ -1,0 +1,15 @@
+{
+    "dependencies": {
+        "chai": "^4.3.4",
+        "chai-as-promised": "^7.1.1",
+        "cors": "^2.8.5",
+        "lite-server": "^2.6.1",
+        "react-router-dom": "^5.3.0"
+    },
+    "scripts": {
+        "start": "cd client && npm start",
+        "build": "react-scripts build",
+        "test": "react-scripts test",
+        "eject": "react-scripts eject"
+    }
+}
